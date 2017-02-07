@@ -1,3 +1,3 @@
 # hello-world
 just another repository
-Hola. Soy Mariana Pérez, tratando de entender cómo funciona GITHUB
+Soy Mariana tratando de entender cómo hacer el primer ejercicio
